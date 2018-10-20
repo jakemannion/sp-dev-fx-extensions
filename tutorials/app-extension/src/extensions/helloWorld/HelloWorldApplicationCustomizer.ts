@@ -102,7 +102,7 @@ export default class HelloWorldApplicationCustomizer
                       <div class="ms-bgColor-themeDark ms-fontColor-white ${styles.bottom}">
                         <i class="ms-Icon ms-Icon--Info" aria-hidden="true"></i> ${escape(bottomString)}
                       </div>
-                    </div>`;
+                    </div>;
         }
       }
     }
